@@ -1,0 +1,16 @@
+@keyframes xoaytron {
+    from {
+        transform: rotate(0);
+    } to {
+        transform: rotate(360deg);
+    }
+}
+
+div{
+    margin: 500px;
+    width: 100px;
+    height: 100px;
+    background: orange;
+
+    animation: xoaytron 0.5s infinite;
+}

@@ -1,0 +1,76 @@
+div {
+    margin: 50px;
+    width: 500px;
+    height: 500px;
+}
+
+.a {
+    border: 50px solid #fff;
+    border-color: #85C226 #f7C200 #4493A0 #DF127B;
+}
+
+.b {
+    border: 50px solid #fff;
+    border-color: #85C226 #f7C200 #4493A0 #DF127B;
+    border-style: solid dotted groove double;
+}
+
+
+.c {
+    border: 50px solid #fff;
+    border-color: #85C226 #f7C200 #4493A0 #DF127B;
+    border-width: 5px 10px 15px 20px;
+}
+
+.d {
+
+    border: 50px solid #fff;
+    border-color: #85C226 #f7C200 #4493A0 #DF127B;
+    border-radius: 0 30px 70px 20px;
+}
+
+.e {
+    border-width: 4px 30px 4px 30px;
+    border-style: groove ridge dashed groove;
+    border-color: #cc0000;
+    border-radius: 100px 100px 0 0;
+}
+
+
+.f {
+    border: 50px solid orange;
+    border-radius: 20px;
+}
+
+.g {
+
+    border-width: 0 12px 0 12px;
+    border-style: double;
+    border-color: violet;
+    border-radius: 40px 40px 60px 60px;
+}
+
+.h {
+    border: 50px solid #fff;
+    border-color: #85C226 #f7C200 #4493A0 #DF127B;
+    border-radius: 20px 100px 100px 20px;
+
+}
+
+.i {
+    background-color: orange;
+    border-width: 4px 30px 4px 30px;
+    border-style: solid;
+    border-color: #85C226 #f7C200 #4493A0 #DF127B;
+    border-radius: 0 120px 0 120px;
+}
+
+.j {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: blue ;
+    color: #fff;
+    font-size: 40px;
+}
